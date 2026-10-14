@@ -1,0 +1,12 @@
+STEP: calculate meeting point for the test.
+STEP: start planning the experiment.
+STEP: right_arm => [start -> cube pickup], left_arm static
+STEP: right_arm => [cube -> meeting], left_arm static
+STEP: right_arm static, left_arm => [start -> meeting]
+STEP: passing the cube.
+STEP: right_arm static, left_arm => [meeting -> cube put-down]
+STEP: right_arm => [start -> cube pickup], left_arm static
+STEP: right_arm => [cube -> meeting], left_arm static
+STEP: right_arm static, left_arm => [start -> meeting]
+STEP: passing the cube.
+STEP: right_arm static, left_arm => [meeting -> cube put-down]
